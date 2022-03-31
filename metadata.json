@@ -1,0 +1,8 @@
+{
+  "name": "Proverb Generator",
+  "description": "Fetches proverbs from https://proverbgenerator.com/ and displays them on your Desktop",
+  "uuid": "lutz_warnecke@web.de",
+  "shell-version": [
+    "40"
+  ]
+}
